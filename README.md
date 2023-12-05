@@ -1,5 +1,5 @@
-Exercise tracker solution for FreeCodeCamp's exercise at: <br/>
-https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice
+Exercise tracker solution for [FreeCodeCamp's exercise](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
+
 
 Uses the **Express** framework on **NodeJS** runtime with a **MongoDB **backend.
 
